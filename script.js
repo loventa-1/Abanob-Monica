@@ -15,8 +15,8 @@ const CONFIG = {
 
   // 🟢 WEDDING DATE & TIME (MODIFY THIS VARIABLE WHENEVER NEEDED)
   weddingDateISO: "2026-05-28T17:00:00", // Format: YYYY-MM-DDTHH:MM:SS (19:00 = 7pm)
-  weddingDateDisplay: "May 25, 2026",
-  weddingDateDisplayAr: "٢٥ مايو ٢٠٢٦ ",
+  weddingDateDisplay: "May 28, 2026",
+  weddingDateDisplayAr: "٢٨ مايو ٢٠٢٦",
 
   // Church Details
   churchName: "Church of the Virgin Mary and St. John, Bab El Louq",
