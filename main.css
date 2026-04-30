@@ -663,6 +663,11 @@ html[lang="en"] .en-text {
   font-size: 8px;
 }
 
+h3 {
+  font-size: larger;
+  color: var(--gold-dark);
+}
+
 /* Event Cards */
 .details-cards {
   position: relative;
