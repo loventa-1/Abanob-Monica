@@ -39,8 +39,8 @@ const CONFIG = {
   musicUrl: "assets/music/music1.mp3",
 
   // WhatsApp numbers
-  groomWhatsappNumber: "201274564277",
-  brideWhatsappNumber: "201211146016",
+  groomWhatsappNumber: "201070823287",
+  brideWhatsappNumber: "201206607149",
 };
 
 // ========== GLOBALS ==========
